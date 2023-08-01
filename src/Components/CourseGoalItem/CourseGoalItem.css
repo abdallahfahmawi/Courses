@@ -1,0 +1,9 @@
+.goals-list li {
+    margin: 0 0 20px 0;
+    background-color: #8b005d;
+    color: #fff;
+    padding: 18px 0 18px 17px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    cursor: pointer;
+  }
